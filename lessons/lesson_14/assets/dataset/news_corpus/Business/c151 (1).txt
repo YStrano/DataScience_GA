@@ -1,0 +1,29 @@
+﻿Intel Earnings May Send Stock Higher
+
+Intel's (ticker: INTC) options trading pattern suggests some investors think the stock's 13% year-to-date decline masks an earnings rally.
+
+Over the past 10 sessions, investors have bought about 61,000 April $34 calls, which expire on April 17, and about 35,000 April $33.50 calls, which expire April 24. The stock is around $31, and associated options are priced as if next week's earnings news will cause the stock to make an extraordinarily sharp move.
+
+With earnings expected April 14, Intel's implied volatility is 29%, near a 52-week high. Goldman Sachs is telling clients Intel's options indicate the stock will move 7% on earnings news. To put that number in context, consider that over the past eight quarters, Intel's stock has moved 2% on average, up or down, in reaction to earnings news.
+
+Intel slashed its earnings guidance last month, citing weak PC sales, lower computer supply chain inventory, and currency headwinds. Analysts reduced first-quarter revenue guidance to $12.8 billion, $900 million shy of initial $13.7 billion.
+
+Intel is expected to report earnings of 41 cents per share, down from an estimated 51 cents just 90 days ago.
+
+Despite Intel's elevated volatility, Intel's upside calls that capture earnings are not bank breakers. The April $31.50 call traded at 78 cents with the stock at $31.47. The April $32 call recently traded at 57 cents. Both have implied volatility of about 41%.
+
+Meanwhile, Intel's April $29.50 put is priced at 19 cents, and the April $30 put is priced at 28 cents.
+
+Though most investors sell options when volatility is high, and buy them when low, a different approach seems merited for Intel. Investor expectations seem so dour into earnings that any bit of good news could cause a powerful rally.
+
+Aggressive investors can consider a risk reversal on Intel. Buy the April $32 call for 57 cents, and sell the April $30 put for 28 cents.
+
+This trade expresses a view that Intel rises above $32 on earnings. At $33, the call is worth $1. The money received from selling the put, meanwhile, is kept if the stock is above $30 at expiration. If the stock declines below $30, investors are obligated to buy the stock or cover the put at a higher price.
+
+Using a risk reversal to position for an advance reflects the long-term message in Intel's overall options market pattern. Intel's most-widely owned options are the January $40 call, the January $35 call and the April $34 call. This suggests expectation the stock incrementally advances as the year matures. The April earnings trade fast-forwards the year.
+
+Correction: An earlier version of this story misstated the expiration date of Intel's $34 calls.
+
+STEVEN SEARS is the author of The Indomitable Investor: Why a Few Succeed in the Stock Market When Everyone Else Fails.
+
+Comments: steve.sears@barrons.com, http://twitter.com/sm_sears
